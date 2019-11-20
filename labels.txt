@@ -1,0 +1,4 @@
+0 fuel
+1 redball
+2 whiteball
+3 none
